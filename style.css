@@ -2,3 +2,24 @@
     margin: 10px;
     padding: 0;
 }
+
+.primeira-caixa{
+    background-color: rgb(202, 198, 198);
+}
+
+.primeira-caixa-background{
+    background-color: rgb(202, 198, 198);
+    margin: auto;
+}
+
+.d-inline{
+    background-color: red;
+}
+
+.d-inline-teste{
+    background-color: yellow;
+}
+
+.junta-tudo{
+    display: inline-block;
+}
