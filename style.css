@@ -16,10 +16,6 @@
     background-color: red;
 }
 
-.d-inline-teste{
-    background-color: yellow;
-}
-
 .junta-tudo{
-    display: inline-block;
+    display: flex;  
 }
