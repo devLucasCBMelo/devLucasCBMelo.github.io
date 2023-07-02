@@ -1,10 +1,21 @@
-*{
-    margin: 10px;
-    padding: 0;
+* {
+    margin: 0;
 }
+
 
 .primeira-caixa{
     background-color: rgb(202, 198, 198);
+    top: 0;
+    text-align: center;
+}
+
+div img {
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    border-radius: 100%;
+    width: 200px;
 }
 
 .primeira-caixa-background{
@@ -13,9 +24,28 @@
 }
 
 .d-inline{
-    background-color: red;
+    background-color: white;
+    padding-top: 100px;
 }
 
 .junta-tudo{
     display: flex;  
+}
+
+h2 , p , li {
+    padding-bottom: 20px;
+}
+
+h2 {
+    padding-top: 20px;
+}
+
+footer a {
+    padding-left: 50px;
+    padding-bottom: 20px;
+} 
+
+h2 , p , hr {
+    padding-left: 20px;
+    padding-right: 20px;
 }
